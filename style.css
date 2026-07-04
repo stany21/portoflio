@@ -1,0 +1,84 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Black+Ops+One&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Orbitron:wght@400..900&family=Roboto+Slab:wght@100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Black+Ops+One&family=Fjalla+One&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Orbitron:wght@400..900&family=Roboto+Slab:wght@100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+*{
+    cursor:pointer;
+}
+
+#hero-section{
+    width:100%;
+    position: fixed;
+    top:0;
+    left:0;
+    right:0;
+    z-index: 1000;
+  
+    
+}
+
+#fluid{
+    margin-top:70px;
+    
+}
+
+#logo{
+    font-family:Black Ops One;
+    font-size:32px;
+    margin-left:90px;
+}
+
+
+#a1,#a2,#a3,#a4,#a5{
+
+    font-family:Fjalla One;
+    font-size: 24px;
+    font-weight: 700;
+
+}
+
+#h2{
+    font-family:Fjalla One;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+
+#about{
+    font-family:Fjalla One;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+
+#skills{
+    font-family:Fjalla One;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+
+.skills{
+    font-family:Fjalla One;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.headingfooter{
+    font-family:Fjalla One;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+#headingfooter{
+    font-family:Black Ops One;
+    font-size:32px;
+   
+}
+
+
+.awsome{
+    font-size:28px;
+}
